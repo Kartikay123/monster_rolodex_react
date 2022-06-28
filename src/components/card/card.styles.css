@@ -15,4 +15,10 @@
   .card-container:hover {
     transform: scale(1.05);
   }
-  
+  @media screen and (max-width: 600px){
+    .card-container{
+     
+    display: flex;
+    flex-direction: column;
+    }
+  }
