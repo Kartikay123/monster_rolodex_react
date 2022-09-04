@@ -44,10 +44,6 @@ useEffect(()=>{
     
   }
 
-  
-  
-
-
     return (
         <div className="App">
          <h1 className='titlewa'>{titles}</h1>
